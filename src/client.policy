@@ -1,0 +1,3 @@
+grant codeBase "file:/C:/Users/Setup/Documents/Git/RMI_Bank/src/"  {
+    permission java.security.AllPermission;
+};
